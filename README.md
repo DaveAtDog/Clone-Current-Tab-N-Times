@@ -14,5 +14,5 @@
 
 ## Thanks
 
-Based of [Elliot Hesp's Chrome-Extension-Twitter-Bootstrap-3-Template](https://github.com/Ehesp/Chrome-Extension-Twitter-Bootstrap-3-Template)
+[Elliot Hesp's Chrome-Extension-Twitter-Bootstrap-3-Template](https://github.com/Ehesp/Chrome-Extension-Twitter-Bootstrap-3-Template)
 
