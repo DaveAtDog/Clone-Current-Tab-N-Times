@@ -10,7 +10,7 @@
 - Ensure "Developer Mode" is ticked/enabled in the top right.
 - Click on "Load unpacked extension...".
 - Navigate to your extracted directory, and click "OK".
-- Your basic extension template should now be alongside your address bar, showing the Google Chrome logo.
+- Your basic extension template should now be alongside your address bar, showing the Dog logo.
 
 ## Thanks
 
